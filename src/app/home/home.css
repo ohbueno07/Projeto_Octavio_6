@@ -1,0 +1,105 @@
+
+
+/*
+* PRINCIPAL
+*/
+div h4 {
+    text-align: center;
+}
+.row.content {
+    height: 1070px;
+}
+
+/*
+* GENERICO
+*/
+.div {
+    background-color: #eee;
+    border: 10px solid #C2CCCA;
+}
+.div-margin {
+    margin-top: 50px;
+}
+
+.img-garotas-bonitas { /* logo e 1º foto garotas bonitas*/
+    margin-top:8px;
+}
+
+/*
+* LOGO
+*/
+.conteudo-logo {
+    margin-left:90px;
+}
+.titulo-logo {
+    margin-top: 232px;
+    margin-left:-250px;
+    color: #29a329; 
+    font-weight: bold;
+}
+
+/*
+* BENEFICIOS
+*/
+.div-beneficios {
+    padding-top: 10px;
+    background-color: #eee;
+    border: 1px solid #00264d;
+}
+.beneficios {
+    text-align: center;
+}
+
+/*
+* 1º FOTO - 
+*/
+.foto-1 {
+    padding-top: 30px;
+    height: 500px;
+} 
+.textoImagens {
+    font-size: 264%;
+    margin-left: -90px;
+    margin-top: 45px;
+    width: 360px;
+}
+
+/*
+* 2º FOTO - PELE BONITA
+*/
+.foto-2 {
+    padding-top: 30px;
+    height: 400px;
+}    
+.img-pele-bonita {
+    text-align: justify;
+    margin-top:15px;
+}
+.texto-imagem-pele {
+    font-size: 200%;
+    margin-left: -20px;
+    margin-top: 40px;
+    width: 360px;
+}
+
+
+/*
+* LATERAIS
+*/
+.div-lateral-color {
+    padding-top: 20px;
+    height: 100%;
+}
+
+/*
+* FOOTER
+*/
+.footer-color {
+    background-color: #0066ff; 
+    color: #FFF8DC; 
+    margin-top: 50px;
+}
+
+
+
+
