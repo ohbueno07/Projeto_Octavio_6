@@ -8,6 +8,7 @@
 }
 
 .layout-fotos {
+    box-sizing: border-box;
     background-color: #eee;
     border: 10px solid #C2CCCA;
 }
@@ -15,13 +16,19 @@
 /*
 * LOGO
 */
+.conteudo-logo {
+    width: 700px;
+    padding: 0px 0px 0px 0px;
+    position: absolute;
+}
 .logo {
     margin-left:90px;
 }
 .titulo-logo {
+    position: absolute;
+    top: 220px;
+    left: 250px;
     text-align: center;
-    margin-top: 232px;
-    margin-left:-250px;
     color: #29a329; 
     font-weight: bold;
 }
@@ -30,8 +37,9 @@
 * BENEFICIOS
 */
 .beneficios {
+    margin:300px 0px 0px 0px;
+    box-sizing: border-box;
     padding-top: 10px;
-    margin-top: 50px;
     background-color: #eee;
     border: 1px solid #00264d;
     text-align: center;
@@ -59,8 +67,8 @@
 }
 .conteudo-texto-meninas-jovens {
     float: left;
-    margin-left: 50px;
-    width: 300px;
+    padding-left: 50px;
+    width: 350px;
 }
 .texto-meninas-jovens {
     font-size: 280%;
