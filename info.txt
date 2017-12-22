@@ -1,0 +1,2 @@
+- O font-size é 16px
+- A largura é diferente (ch). Acho que é 8px ou 10px;

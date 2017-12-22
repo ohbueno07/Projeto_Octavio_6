@@ -3,31 +3,31 @@
 * GENERICO
 */
 .conteudo-lateral {
-    padding-top: 20px;
+    padding-top: 1em;
     height: 100%;
 }
 
 .layout-fotos {
     box-sizing: border-box;
     background-color: #eee;
-    border: 10px solid #C2CCCA;
+    border: .63em solid #C2CCCA;
 }
 
 /*
 * LOGO
 */
 .conteudo-logo {
-    width: 700px;
-    padding: 0px 0px 0px 0px;
+    width: 100ch;
     position: absolute;
 }
 .logo {
-    margin-left:90px;
+    margin-top: .5em;
+    margin-left: 6em;
 }
 .titulo-logo {
     position: absolute;
-    top: 220px;
-    left: 250px;
+    top: 12em;
+    left: 26ch;
     text-align: center;
     color: #29a329; 
     font-weight: bold;
@@ -37,11 +37,11 @@
 * BENEFICIOS
 */
 .beneficios {
-    margin:300px 0px 0px 0px;
+    margin: 22em 0px 0px 0px;
     box-sizing: border-box;
-    padding-top: 10px;
+    padding-top: 1em;
     background-color: #eee;
-    border: 1px solid #00264d;
+    border: .1em solid #00264d;
     text-align: center;
 }
 
@@ -52,26 +52,26 @@
     text-align: center;
     color: #29a329; 
     font-weight: bold;
-    padding: 100px 0px 0px 0px;
+    padding: 3em 0px 0px 0px;
 }
 .conteudo-meninas-jovens {
-    margin:30px 0px 100px 0px;
-    padding-top: 30px;
-    height: 500px;
+    margin: 2em 0px 6em 0px;
+    padding-top: 2em;
+    height: 33em;
 } 
 .conteudo-img-meninas-jovens {
     float: left;
 }
 .img-garotas-bonitas { /* logo e 1º foto garotas bonitas*/
-    margin-top:8px;
+    margin-top: .5em;
 }
 .conteudo-texto-meninas-jovens {
     float: left;
-    padding-left: 50px;
-    width: 350px;
+    padding-left: 3em;
+    width: 45ch;
 }
 .texto-meninas-jovens {
-    font-size: 280%;
+    font-size: 2.8em;
 }
 
 /*
